@@ -1,0 +1,15 @@
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\bin\Debug\MVC.exe.config
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\bin\Debug\MVC.exe
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\bin\Debug\MVC.pdb
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MainWindow.g.cs
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\App.g.cs
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MVC_MarkupCompile.cache
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MVC_MarkupCompile.lref
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MainWindow.baml
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MVC.g.resources
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MVC.Properties.Resources.resources
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MVC.csproj.GenerateResource.cache
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MVC.exe
+\\main\RDP\43П\АбуровАА\Desktop\MVC\MVC\obj\Debug\MVC.pdb
